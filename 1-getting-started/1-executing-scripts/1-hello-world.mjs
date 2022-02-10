@@ -70,7 +70,5 @@ const server = createServer((req, res) => {
 server.listen(4242, () => {
   console.log('Server is running...');
 });
-
-
 // NAMED IMPORTS //
 // TO FIX THIS //
